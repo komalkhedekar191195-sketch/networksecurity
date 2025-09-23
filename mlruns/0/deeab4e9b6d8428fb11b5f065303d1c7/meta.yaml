@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/NetworkSecurity/mlruns/0/deeab4e9b6d8428fb11b5f065303d1c7/artifacts
+end_time: 1758631817018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deeab4e9b6d8428fb11b5f065303d1c7
+run_name: trusting-lark-336
+run_uuid: deeab4e9b6d8428fb11b5f065303d1c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758631814808
+status: 3
+tags: []
+user_id: surve1
